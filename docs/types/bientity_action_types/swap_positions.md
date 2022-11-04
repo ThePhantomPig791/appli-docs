@@ -3,11 +3,11 @@ title: Swap Positions (Bi-entity Action Type)
 date: 2022-11-03
 ---
 
-# Add Velocity
+# Swap Positions
 
 [Bi-entity Action Type](../bientity_action_types.md)
 
-Adds or sets the velocity of the target entity, based on the direction from the actor entity to the target entity.
+Swaps the positions of the actor and target entities.
 
 Type ID: `appli:swap_positions`
 
