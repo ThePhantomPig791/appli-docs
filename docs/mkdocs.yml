@@ -1,0 +1,11 @@
+site_name: Origins Documentation
+nav:
+    - Home: index.md
+    - Action Types:
+        - Bi-entity Action Types: types/bientity_action_types.md
+
+theme: readthedocs
+markdown_extensions:
+    - toc:
+        separator: "_"
+    - admonition
