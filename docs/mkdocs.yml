@@ -1,4 +1,4 @@
-site_name: Origins Documentation
+site_name: Appli Documentation
 nav:
     - Home: index.md
     - Action Types:
