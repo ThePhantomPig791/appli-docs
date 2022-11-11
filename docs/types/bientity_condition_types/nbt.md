@@ -13,7 +13,7 @@ Type ID: `appli:nbt`
 
 !!! note
 
-    Due to my dodgy programming, you can only specify paths with periods, not brackets. Additionally, you can't get sub-sub data, only sub-data or root data. So you are able to get data and data.testUUID, but not data.object.testUUID.
+    Due to my dodgy programming, you can only specify paths with periods, not brackets. Additionally, you can't get sub-sub data, only sub-data or root data. So it's possible get "data" and "data.testUUID", but not "data.object.testUUID".
 
 
 ### Fields
