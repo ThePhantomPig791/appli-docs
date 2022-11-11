@@ -25,7 +25,7 @@ Field | Type | Default | Description
 ------|------|---------|------------
 `command` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) || The command to be executed.
 `comparison` | [Comparison](https://origins.readthedocs.io/en/latest/types/data_types/comparison/) || How to compare the stored result of the specified command to the specified value.
-`compare_to` | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) || The value to compare the stored result of the specified command to..
+`compare_to` | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) || The value to compare the stored result of the specified command to.
 
 
 ### Examples
