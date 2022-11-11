@@ -3,7 +3,7 @@ title: Execute Command (Bi-entity Action Type)
 date: 2022-11-11
 ---
 
-# Teleport
+# Execute Command
 
 [Bi-entity Action Type](../bientity_action_types.md)
 

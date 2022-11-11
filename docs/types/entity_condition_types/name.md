@@ -3,7 +3,7 @@ title: Name (Entity Condition Type)
 date: 2022-11-11
 ---
 
-# Can See
+# Name
 
 [Entity Condition Type](../entity_condition_types.md)
 

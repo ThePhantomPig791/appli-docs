@@ -3,7 +3,7 @@ title: Nbt (Bi-entity Condition Type)
 date: 2022-11-11
 ---
 
-# Can See
+# NBT
 
 [Bi-entity Condition Type](../bientity_condition_types.md)
 

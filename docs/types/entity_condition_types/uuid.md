@@ -3,7 +3,7 @@ title: UUID (Entity Condition Type)
 date: 2022-11-11
 ---
 
-# Can See
+# UUID
 
 [Entity Condition Type](../entity_condition_types.md)
 
