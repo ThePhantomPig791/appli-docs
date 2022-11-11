@@ -12,3 +12,4 @@ Entity Condition Types operate on an Entity, which also allows access to the wor
 
 * [Name](entity_condition_types/name.md)
 * [UUID](entity_condition_types/uuid.md)
+* [Motion](entity_condition_types/motion.md)
