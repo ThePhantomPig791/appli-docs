@@ -9,7 +9,7 @@ date: 2022-11-11
 
 Checks if the NBT value of two specific paths are the same for the actor and target.
 
-Type ID: `origins:nbt`
+Type ID: `appli:nbt`
 
 !!! note
 
