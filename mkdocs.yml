@@ -3,6 +3,8 @@ nav:
     - Home: index.md
     - Action Types:
         - Bi-entity Action Types: types/bientity_action_types.md
+    - Condition Types:
+        - Bi-entity Condition Types: types/bientity_condition_types.md
 
 theme: readthedocs
 markdown_extensions:
