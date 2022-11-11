@@ -1,5 +1,5 @@
 # Appli
-## Phantom's extension to A Power Library (the name stands for A Phantom Power Library, original I know).
+### Phantom's extension to A Power Library (the name stands for A Phantom Power Library, original I know).
 
 <br>
 
