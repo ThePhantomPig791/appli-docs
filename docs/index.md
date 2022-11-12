@@ -3,7 +3,7 @@
 
 <br>
 
-This is an addon mod to Apoli, a mod adding a data-driven power system.
+This is an addon mod to [Apoli](https://github.com/apace100/apoli), a mod adding a data-driven power system.
 
 Appli is mostly a random assortment of powers, actions, or conditions I felt like making. With that said, I hope you can find a use for at least one of them.
 
