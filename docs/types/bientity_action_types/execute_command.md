@@ -16,8 +16,8 @@ Type ID: `appli:execute_command`
 
 Field  | Type | Default | Description
 -------|------|---------|-------------
-`as` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) || Who the command is executed as. Must be either "actor" or "target" (ignores casing).
-`at` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) || Who the command is executed at. Must be either "actor" or "target" (ignores casing).
+`as` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) || Who the command is executed as. Must be either "actor" or "target" (ignores casing). (Anything except "actor" will be read as "target".)
+`at` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) || Who the command is executed at. Must be either "actor" or "target" (ignores casing). (Anything except "actor" will be read as "target".)
 `command` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) || The command to be executed.
 
 
