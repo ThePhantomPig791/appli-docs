@@ -1,15 +1,12 @@
-site_name: Appli Documentation
-nav:
-    - Home: index.md
-    - Action Types:
-        - Bi-entity Action Types: types/bientity_action_types.md
-    - Condition Types:
-        - Bi-entity Condition Types: types/bientity_condition_types.md
-        - Block Condition Types: types/block_condition_types.md
-        - Entity Condition Types: types/entity_condition_types.md
+version: 2
 
-theme: readthedocs
-markdown_extensions:
-    - toc:
-        separator: "_"
-    - admonition
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.11"
+
+mkdocs:
+    configuration: mkdocs.yml
+python:
+  install:
+    - requirements: requirements.txt
