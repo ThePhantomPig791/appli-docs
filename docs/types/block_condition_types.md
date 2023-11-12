@@ -10,4 +10,8 @@ Block Condition Types operate on `CachedBlockPosition`, essentially a combinatio
 
 ### List
 
-* [Command](block_condition_types/command.md)
+
+
+### Deprecated
+
+* [Command](block_condition_types/command.md), deprecated by [Command (Block Condition Type)](https://origins.readthedocs.io/en/latest/types/block_condition_types/command/)

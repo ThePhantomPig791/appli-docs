@@ -15,6 +15,10 @@ Type ID: `appli:command`
 
 !!! caution
 
+    **__This block condition has been deprecated by Apoli's [block condition of the same name](https://origins.readthedocs.io/en/latest/types/block_condition_types/command/).__**
+
+!!! caution
+
     *To quote the Origins wiki,*
     "[t]his condition is only effective server-side. That means client-side power types such as [`origins:climbing`](https://origins.readthedocs.io/en/latest/types/power_types/climbing/), [`origins:entity_glow`](https://origins.readthedocs.io/en/latest/types/power_types/entity_glow/), [`origins:shader`](https://origins.readthedocs.io/en/latest/types/power_types/shader/), etc. won't work with this."
 
