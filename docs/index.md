@@ -9,5 +9,6 @@ Appli is mostly a random assortment of powers, actions, or conditions I felt lik
 
 Before using Appli, it's recommended you familarize yourself with the [Origins/Apoli wiki](https://origins.readthedocs.io/en/latest/), and how to create a datapack for it.
 
+You can download Appli [here](https://modrinth.com/mod/appli).
 
 If you have questions/comments/concerns/suggestions/anything else, feel free to DM me on discord at `phantompig`.
