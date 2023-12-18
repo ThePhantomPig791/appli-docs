@@ -14,6 +14,10 @@ a `type` field in the JSON. Which type a power is defines which other fields it 
     Unless stated otherwise, each power type supports a `condition` field that can check for [Entity Condition Types](https://origins.readthedocs.io/en/latest/types/entity_condition_types/). See [Power JSON](https://origins.readthedocs.io/en/latest/json/power/) for more details.
 
 
+### Action-related
+
+* [Action on Trade](power_types/action_on_trade.md)
+
 ### Modifying types
 
 * [Modify Model Parts](power_types/modify_model_parts.md)
@@ -21,5 +25,7 @@ a `type` field in the JSON. Which type a power is defines which other fields it 
 
 ### Preventing types
 
+* [Prevent Item Pickup](power_types/prevent_item_pickup.md)
+* [Prevent Trade](power_types/prevent_trade.md)
 * [Prevent Keys](power_types/prevent_keys.md)
 * [Prevent Mouse](power_types/prevent_mouse.md)
