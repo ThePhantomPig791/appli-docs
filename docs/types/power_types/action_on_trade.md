@@ -18,7 +18,7 @@ Field | Type | Default | Description
 ------|------|---------|-------------
 `item_action` | [Item Action](https://origins.readthedocs.io/en/latest/types/item_action_types/) | | The action to execute on the item stack that the player buys.
 `bientity_action` | [Bi-entity Action](https://origins.readthedocs.io/en/latest/types/bientity_action_types/) | | The action to execute on both the trader and the player, with the player as the actor and the trader as the target.
-`bientity_condition` | [Bi-entity Condition](https://origins.readthedocs.io/en/latest/types/bientity_condition_types/) | _null_ | The condition to check against both the trader and the player, with the player as the actor and the trader as the target.
+`bientity_condition` | [Bi-entity Condition](https://origins.readthedocs.io/en/latest/types/bientity_condition_types/) | _optional_ | The condition to check against both the trader and the player, with the player as the actor and the trader as the target.
 
 
 ### Examples

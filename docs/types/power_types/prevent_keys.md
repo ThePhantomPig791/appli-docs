@@ -28,7 +28,7 @@ Type ID: `appli:prevent_keys`
 
 Field | Type | Default | Description
 ------|------|---------|-------------
-`keys` | [Array](https://origins.readthedocs.io/en/latest/types/data_types/array/) of [Integers](https://origins.readthedocs.io/en/latest/types/data_types/integer) | | An array of [keycode values](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes) that will be prevented.
+`keys` | [Array](https://origins.readthedocs.io/en/latest/types/data_types/array/) of [Integers](https://origins.readthedocs.io/en/latest/types/data_types/integer) | _optional_ | An array of [keycode values](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes) that will be prevented.
 
 
 ### Examples

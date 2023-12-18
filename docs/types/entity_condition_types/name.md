@@ -17,7 +17,7 @@ Type ID: `appli:name`
 Field | Type | Default | Description
 ------|------|---------|------------
 `name` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) || The name to check for.
-`match_case` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) |`false`| Whether the `name` field should need to match the casing of the entity's name.
+`match_case` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | `false` | Whether the `name` field should need to match the casing of the entity's name.
 
 
 ### Examples

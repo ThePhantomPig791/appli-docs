@@ -16,8 +16,8 @@ Type ID: `appli:prevent_item_pickup`
 
 Field | Type | Default | Description
 ------|------|---------|-------------
-`item_condition` | [Item Condition](https://origins.readthedocs.io/en/latest/types/item_condition_types/) | _null_ | The condition to check the item stack with.
-`bientity_condition` | [Bi-entity Condition](https://origins.readthedocs.io/en/latest/types/bientity_condition_types/) | _null_ | The condition to check against both the item stack entity and the player, with the player as the actor and the item stack as the target.
+`item_condition` | [Item Condition](https://origins.readthedocs.io/en/latest/types/item_condition_types/) | _optional_ | The condition to check the item stack with.
+`bientity_condition` | [Bi-entity Condition](https://origins.readthedocs.io/en/latest/types/bientity_condition_types/) | _optional_ | The condition to check against both the item stack entity and the player, with the player as the actor and the item stack as the target.
 
 
 ### Examples
