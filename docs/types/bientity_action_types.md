@@ -12,5 +12,5 @@ As a rule of thumb, the actor is usually the entity that "triggers" the action (
 
 ### List
 
-* [Teleport](bientity_action_types/teleport.md)
 * [Execute Command](bientity_action_types/execute_command.md)
+* [Teleport](bientity_action_types/teleport.md)

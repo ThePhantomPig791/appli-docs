@@ -16,7 +16,9 @@ a `type` field in the JSON. Which type a power is defines which other fields it 
 
 ### Action-related
 
-* [Action on Trade](power_types/action_on_trade.md)
+* [Action On Kill](power_types/action_on_kill.md)
+* [Action On Trade](power_types/action_on_trade.md)
+
 
 ### Modifying types
 
@@ -26,6 +28,6 @@ a `type` field in the JSON. Which type a power is defines which other fields it 
 ### Preventing types
 
 * [Prevent Item Pickup](power_types/prevent_item_pickup.md)
-* [Prevent Trade](power_types/prevent_trade.md)
 * [Prevent Keys](power_types/prevent_keys.md)
 * [Prevent Mouse](power_types/prevent_mouse.md)
+* [Prevent Trade](power_types/prevent_trade.md)
